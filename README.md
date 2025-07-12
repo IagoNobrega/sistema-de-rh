@@ -41,6 +41,7 @@ Shadcn/UI : componentes de interface
 Lucide React : Ícones
 React Router : Roteamento
 Estrutura do Projeto
+
 sistema-rh/
 ├── src/
 │   ├── models/          # Modelos de dados
